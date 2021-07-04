@@ -11,7 +11,7 @@ Now process: 6/12 done
 - [x] Boku No Sainou
 - [x] Uraomote Lovers
 - [x] Zureteiku
-- [ ] Tsumiki No Ningyou
+- [x] Tsumiki No Ningyou
 - [ ] Rolling Girl
 - [ ] World's End Dancehall
 - [ ] Unhappy Refrain
