@@ -10,7 +10,7 @@ Now process: 6/12 done
 - [x] Tosenbo
 - [x] Boku No Sainou
 - [x] Uraomote Lovers
-- [ ] Zureteiku
+- [x] Zureteiku
 - [ ] Tsumiki No Ningyou
 - [ ] Rolling Girl
 - [ ] World's End Dancehall
