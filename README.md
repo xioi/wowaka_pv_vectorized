@@ -12,8 +12,8 @@ Now process: 8/12 done
 - [x] Uraomote Lovers
 - [x] Zureteiku
 - [x] Tsumiki No Ningyou
-- [ ] Rolling Girl
-- [ ] World's End Dancehall
-- [ ] Unhappy Refrain
-- [ ] Unknown Mother Goose
+- [x] Rolling Girl
+- [x] World's End Dancehall
+- [x] Unhappy Refrain
+- [x] Unknown Mother Goose
 
