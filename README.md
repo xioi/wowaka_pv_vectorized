@@ -17,3 +17,4 @@ Now process: 12/12 done
 - [x] Unhappy Refrain
 - [x] Unknown Mother Goose
 
+License: CC-BY-NC 4.0
