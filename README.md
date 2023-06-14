@@ -1,6 +1,6 @@
 # wowaka PV remake plan
 
-This project is in order to make SVG version of wowaka's music video's background image.
+This project is aiming to vectorize MV backgrounds of wowaka's VOCALOID works.
 
 Now process: 12/12 done
 
